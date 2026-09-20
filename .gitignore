@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.pyc
+saved_models/
+logs/
+data/
+.DS_Store
