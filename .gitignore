@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 saved_models/
 logs/
-data/
+/data/
 .DS_Store
