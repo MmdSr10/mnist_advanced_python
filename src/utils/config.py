@@ -7,6 +7,7 @@ class ModelConfig:
     epochs:int=10
     learning_rate:float=0.001
     image_shape:Tuple[int,int,int]=(28,28,1)
+    num_classes: int = 10
 
 @dataclass(frozen=True)
 class PathConfig:
